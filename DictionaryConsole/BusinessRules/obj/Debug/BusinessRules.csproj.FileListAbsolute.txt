@@ -1,0 +1,5 @@
+C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\bin\Debug\BusinessRules.dll
+C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.dll
+C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.pdb
+C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.csprojResolveAssemblyReference.cache

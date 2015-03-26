@@ -3,3 +3,8 @@ C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\bin\Debug
 C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.dll
 C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.pdb
 C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.csprojResolveAssemblyReference.cache
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\BusinessRules\bin\Debug\BusinessRules.dll
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.csprojResolveAssemblyReference.cache
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.dll
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\BusinessRules\obj\Debug\BusinessRules.pdb

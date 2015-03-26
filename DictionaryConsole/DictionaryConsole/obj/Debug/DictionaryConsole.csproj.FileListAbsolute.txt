@@ -6,3 +6,11 @@ C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\DictionaryConsole\bin\D
 C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\DictionaryConsole\obj\Debug\DictionaryConsole.csprojResolveAssemblyReference.cache
 C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\DictionaryConsole\obj\Debug\DictionaryConsole.exe
 C:\Users\Exsis\Desktop\WAY2\Dictionary\DictionaryConsole\DictionaryConsole\obj\Debug\DictionaryConsole.pdb
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\bin\Debug\DictionaryConsole.exe.config
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\obj\Debug\DictionaryConsole.exe
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\obj\Debug\DictionaryConsole.pdb
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\bin\Debug\DictionaryConsole.exe
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\bin\Debug\DictionaryConsole.pdb
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\bin\Debug\BusinessRules.dll
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\bin\Debug\BusinessRules.pdb
+C:\DictionaryConsole\DictionaryConsole\DictionaryConsole\DictionaryConsole\obj\Debug\DictionaryConsole.csprojResolveAssemblyReference.cache

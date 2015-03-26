@@ -111,6 +111,7 @@ namespace Way2.BusinessRules
             Range = IntCurrentPosition;
             NumberOfAttempts = 0;
             WordFound = false;
+            StrMessage = String.Empty;
         }
 
 
